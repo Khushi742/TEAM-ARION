@@ -1,5 +1,5 @@
 TEAM-ARION Webscraper
-=> A Python-based tool that fetches Formula Student (FS) car part data from multiple e-commerce websites.
+=> A Python-based tool that fetches FS car part data from multiple e-commerce websites.
  It lets users search for parts (e.g., “brake pads”), splits queries into keywords, and scrapes results into a single JSON file for easier access.
 
 Tech Stack & Tools
